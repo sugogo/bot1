@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "redkan",
+  "private_key_id": "ed4af7cf9ac7d540d28f2c494fafcaecd0a2ce21",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCv3NmHQjHapEhr\nX98n2B+AQ/i5YJhK20WKnEpXgb1aSDlV94ovJ5hBt2tHXhzOelqj1eScXMoQKA/O\nMOCQTeUb7bCmtVj8aiwU22s08Pl5Z/rn216KRVQk8+c5G5LnUY0jFcYalV/yMEkF\nhHL0pPZsgFve3VJXNlQz6hd5KhzpwKsCY0s0/AujdJNK2k9ljPox88Yns/tdetE5\ncZ0PPcEZuKzZGv0dfEihyoySq92XSc92OuF1WIL9JF++SAfy5chP+lZLjD7LWthz\nSUt/B2eUjfcXRNY28kok5SUvAFjWxdZttWmXF7QtVU7UB5qsQ8ya6huG08VPhQ8B\nEp1MnawTAgMBAAECggEAI9Xqg6vi8c05LpweIoXhQWdYZxn+Xn6ZCJo5ceRvm9aM\nzG5BO8OjPHzuQOA2GYMINktvJsenqywmsFr4X59n2M2SCh55EBJogiWGDocuJuWf\n1KA4fw+Kim8jBlmOkVFmY6hbsm4O25CoSJYJQL3esxRi5CKQVVIuTVfdyaRhuOXg\nzpBO9DLDVpNiHh4tI4e/pOcW7GmBQIGirn7vEJrgPhAGH03/7iSqIKyy8Q/Lo/Ft\nFPcA2e0h18llA5q2r5ho9oJ6qBvbL7nDmrsnpC0/+Jn9SRCouMERgHCYKVpHWcnb\ned8pgB7OCrZXluuKWyhyjT9G6PZlA1hC/6/O+f8JmQKBgQD3zd53OojHXnLiVbZg\na729Gzb9GuNsh04JEr3X7dTMyuWD9sa9UT9pCMNRs9bPv0v3hhxG57H32BWaYqCq\nqxiz7tIVI7h7ASr62KoFvUDr5Qg/7DIF2WDOJuQIHnLCphZoNgqZAbPOufsv90NV\nsK8mqM22s0sboePadPfkQihG2QKBgQC1rdwqDK+aKXI0DHRawLSeS3fsCNQrE/Xq\nOPprFx33RVI7Mb8MRt+Pc/A+UOL6FbxIeZogWUKsrIPQhjmae6SyoqucXNmYpakK\nLF98+mUNDSM+XE/EhTcJlBc0W1DG46ETuR3fe4PZTmyQw06Xfo0IrMSuM+wTn7UT\n2FETMvauywKBgEJmhrsaEzahB1XAs+roU+JNXZG617/oDa/+tqIal4/8uj1/Lcfi\n8oPZlkTZVLE8SEXeSMtzIEwSOc+xp+2zhR4J239QoAlNyc+HqR96k9/h8jD2wHyy\nv+7dmvLV/dhMmup3uKVBQIYfbcBvmDpo6rYIO38+Udzop16NQzOFyrcZAoGAR8Ka\necl0+vFv+HsK4mXHcdbhUUvTcgh6U7+Zuf7xiR/KcTMfARxlZWYn+JU+cgVvzzio\n1iormcSydATwb8JytVRncGWEVTTp5ejM9rJ4g4Uy7IjNwRPVP2VNHRMMfuKeVwoB\ncKp607SUUUGzo0cLMef778r2bnHgtiv1Kh4xLa0CgYBT4/e9E7mQH0ISZLcJVoW9\nY+ZmdNt0NMpkLVmjYZ43YoceZlEW/hI+c9vDq0lpnE08iUQJJn+8GjddQ96mWUTd\nHVFWhQyIZfTsYfkIc4XnBTxCf+WTaUQrb49aQm0Ql04ACoMNuD9wUvLyTEtm5SYW\nlSTaIG9wTBVKfteddgZonQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "redkan@redkan.iam.gserviceaccount.com",
+  "client_id": "105230134122370950469",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/redkan%40redkan.iam.gserviceaccount.com"
+}
